@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Synchronous execution'/>
+        <page name='Thread'/>
+        <page name='Thread - QoS'/>
+        <page name='Thread - Exitting'/>
+        <page name='Thread - Cancelling'/>
+        <page name='Thread - Concurrent writes'/>
+        <page name='Thread - Concurrent writes (fixed)'/>
+        <page name='Thread - Concurrent read-write'/>
+        <page name='Thread - Concurrent read-write (fixed)'/>
+        <page name='Thread - Array safety'/>
+        <page name='Thread - Array safety (fixed)'/>
+        <page name='Thread - Run Loop'/>
+        <page name='GCD - Synchronous dispatch'/>
+        <page name='GCD - Asynchronous dispatch'/>
+        <page name='GCD - System-provided queues'/>
+        <page name='GCD - Custom Serial Queue'/>
+        <page name='GCD - Custom Concurrent Queue'/>
+        <page name='GCD - DispatchWorkItem'/>
+        <page name='GCD - DispatchWorkItem - Cancellation'/>
+        <page name='GCD - DispatchGroup - Wait'/>
+        <page name='GCD - DispatchGroup - Notify'/>
+        <page name='Operation'/>
+        <page name='Operation - Priority and order'/>
+        <page name='Operation - Dependencies'/>
+    </pages>
+</playground>
