@@ -1,2 +1,3 @@
-# ios-concurrency-workshop
-Concurrency workshop playground
+# Concurrency in iOS
+
+This repository contains the Playground used at the workshop.
