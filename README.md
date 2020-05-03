@@ -1,3 +1,3 @@
 # Concurrency in iOS
 
-This repository contains the Playground used at the workshop.
+This repository contains a Playground exploring concurrency in iOS.
